@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "A Novel Sparse Representation Algorithm based on Mixed L0-norm with Synthesis K-SVD"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
