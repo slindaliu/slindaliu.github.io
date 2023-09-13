@@ -3,7 +3,7 @@ title: "Manifold Constrained Joint Sparse Learning via Non-convex Regularization
 collection: publications
 permalink: /publication/Manifold Constrained Joint Sparse Learning via Non-convex Regularization
 excerpt: ''
-date: 2021
+date: 2023-9-13
 venue: 'Neurocomputing'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: '**J. Liu**, X. Xiu, X. Zeng, M. Wang, W. Liu, “Manifold Constrained Joint Sparse Learning via Non-convex Regularization”. Neurocomputing, 458, 112-126, 2021.'
