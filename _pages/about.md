@@ -11,7 +11,7 @@ Dr. Liu is engaged in the research of artificial intelligence algorithms and the
 [code](http://academicpages.github.io/files/paper2.pdf)
 
 **Research Interests**:  
-    +Intelligent Processing Chips  
+    + Intelligent Processing Chips  
     +Novel Sensing Chips  
 
 **Education**:
