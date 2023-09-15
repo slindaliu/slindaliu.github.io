@@ -1,5 +1,5 @@
 - **A Novel Sparse Representation Algorithm based on Mixed L0-norm with Synthesis K-SVD**
   - Authors: *J. Liu*, W. Liu, S. Ma
   - Journal: Pacific Journal of Optimization, 2020
-  - [PDF]([link_to_pdf1](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312157))
+  - [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312157)
   - [code](http://academicpages.github.io/files/paper2.pdf)
