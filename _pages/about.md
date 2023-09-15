@@ -11,19 +11,19 @@ Dr. Liu is engaged in the research of artificial intelligence algorithms and the
 [code](http://academicpages.github.io/files/paper2.pdf)
 
 **Research Interests**:  
-    + Intelligent Processing Chips  
-    +Novel Sensing Chips  
+    * Intelligent Processing Chips  
+    * Novel Sensing Chips  
 
 **Education**:
-    +Ph.D. in Control Science and Engineering, Shanghai University, 2018  
-    +Ph.D. Joint Training in Computer Science, Curtin University, Australia, 2016  
-    +M.S. in Control Science and Engineering, Shanghai University, 2013  
-    +B.S. in Biomedical Engineering, Zhengzhou University, 2006  
+    * Ph.D. in Control Science and Engineering, Shanghai University, 2018  
+    * Ph.D. Joint Training in Computer Science, Curtin University, Australia, 2016  
+    * M.S. in Control Science and Engineering, Shanghai University, 2013  
+    * B.S. in Biomedical Engineering, Zhengzhou University, 2006  
 
 **Work Experience**:  
-    +Lecturer, Shanghai University, August 2022 - Present  
-    +Postdoctoral Researcher, School of Microelectronics, Fudan University, April 2019 - August 2022  
+    * Lecturer, Shanghai University, August 2022 - Present  
+    * Postdoctoral Researcher, School of Microelectronics, Fudan University, April 2019 - August 2022  
 
 **Research Achievements and Awards**:  
-    +Published over 20 SCI papers in relevant fields  
-    +Granted 2 patents  
+    * Published over 20 SCI papers in relevant fields  
+    * Granted 2 patents  
