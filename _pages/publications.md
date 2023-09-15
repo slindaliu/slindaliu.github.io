@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<span style="font-family: 'Times New Roman', Times, serif; font-size: 16px;">
+
 *J. Liu*, X. Xiu, X. Zeng, M. Wang, W. Liu, “Manifold Constrained Joint Sparse Learning via Non-convex Regularization”. Neurocomputing, 2021.[PDF](http://academicpages.github.io/files/paper3.pdf)|[code](http://academicpages.github.io/files/paper3.pdf)
 
 *J. Liu*, R. Ma, X. Zeng, M. Wang, W. Liu, H. Chen, “An Efficient Non-convex Total Variation Approach for Image Deblurring and Denoising”. Applied Mathematics and Computation, 2021.[PDF](http://academicpages.github.io/files/paper3.pdf)|[code](http://academicpages.github.io/files/paper3.pdf)
@@ -21,3 +23,4 @@ Q. Wu, M. Wang,*J. Liu**, W. Li, “A Single-Slope PWM Imaging Method for Multi-
 X. Chen, H. Zhu,*J. Liu**, M. Wang, X. Zeng, “An Efficient Markov Random Field Based Denoising Approach for Dynamic Vision Sensor”. ASICON, pp. 1-4. IEEE, 2021. (Corresponding author)
 
 B. Feng, X. Cheng,*J. Liu**, M. Wang, W. Li, “An Efficient Space Spatiotemporal Noise Filter for Dynamic Vision Sensor”. ASICON, pp. 1-4. IEEE, 2021. (Corresponding author)
+</span>
