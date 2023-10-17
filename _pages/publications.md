@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 <span style="font-family: 'Times New Roman', Times, serif; font-size: 20px;">
-A. GOU, **J. Liu**, X. CHEN, X. ZENG, Y. FAN. “CCTSS: The Combination of CNN and Transformer with Shared Sublayer for Detection and Classification”. IEICE Transactions on Fundamentals of Electronics, 2023.[PDF](http://academicpages.github.io/files/paper3.pdf), [code](http://academicpages.github.io/files/paper3.pdf) 
+A. GOU, **J. Liu**, X. CHEN, X. ZENG, Y. FAN. “CCTSS: The Combination of CNN and Transformer with Shared Sublayer for Detection and Classification”. IEICE Transactions on Fundamentals of Electronics, 2023.(Corresponding author)[PDF](http://academicpages.github.io/files/paper3.pdf), [code](http://academicpages.github.io/files/paper3.pdf) 
 
 <span style="font-family: 'Times New Roman', Times, serif; font-size: 20px;">
-Ding Z, Wu Q, Wang M, **J. Liu**, X. Zeng. “A Multi-mode Neuromorphic Vision Sensor With Improved Brightness Measurement Performance by Pulse Coding Method”. IEEE Internet of Things Journal, 2023.[PDF](http://academicpages.github.io/files/paper3.pdf), [code](http://academicpages.github.io/files/paper3.pdf) 
+Ding Z, Wu Q, Wang M, **J. Liu**, X. Zeng. “A Multi-mode Neuromorphic Vision Sensor With Improved Brightness Measurement Performance by Pulse Coding Method”. IEEE Internet of Things Journal, 2023.(Corresponding author)[PDF](http://academicpages.github.io/files/paper3.pdf), [code](http://academicpages.github.io/files/paper3.pdf) 
 
 <span style="font-family: 'Times New Roman', Times, serif; font-size: 20px;">
 **J. Liu**, M. Feng, D. Gu, X. Zeng, W. Liu. “Moving object detection in gigapixel-level videos using manifold sparse representation”. Multimedia Tools and Applications, 2023.[PDF](http://academicpages.github.io/files/paper3.pdf), [code](http://academicpages.github.io/files/paper3.pdf) 
